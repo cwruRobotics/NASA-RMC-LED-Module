@@ -1,0 +1,43 @@
+Change Component Footprint: Designator=C1 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C2 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C3 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C4 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C5 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C6 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C7 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C8 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C14 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C15 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C17 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C18 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=D3 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R3 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R7 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R8 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R10 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=C16 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C19 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C20 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R1 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R2 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R4 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R6 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R9 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=C12 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=C13 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=R5 Old Footprint=chip_1206 New Footprint=chip_1206
+Change Component Footprint: Designator=C9 Old Footprint=chip_1210 New Footprint=chip_1210
+Change Component Footprint: Designator=C10 Old Footprint=chip_1210 New Footprint=chip_1210
+Added Component: Designator=Y1(ABLS_AT49_OSC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ESR"; Value = "80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "8.000M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ABLS-8.000MHZ-B2-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "OSC-00002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stability"; Value = "50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC6_2 Pin=Y1-2
+Added Member To Class: ClassName=LedModuleMicrocontroller Member=Component Y1 osc_xtal_2p_0
