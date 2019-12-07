@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=C11 Old Footprint=chip_2917_AVX_TAJD New Footprint=chip_1210
+Change Component Comment : Designator=C11 Old Comment=cap_single_p New Comment=cap_single_np
+Change component parameters: Designator = "C11"; Footprint = "chip_1210"; UniqueID = "\AEIPQZSS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Cost"; Value = "$1.08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "C1210C476M9RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP-00557"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "6.3V"; VariantName = "[No Variations]"
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=RGB(232, 93, 172) New Net Color=Default
+Change Net Color : Old Net Color=Green New Net Color=Default
+Change Net Color : Old Net Color=RGB(114, 60, 56) New Net Color=Default
+Change Net Color : Old Net Color=RGB(172, 141, 159) New Net Color=Default
+Change Net Color : Old Net Color=RGB(166, 114, 154) New Net Color=Default
+Change Net Color : Old Net Color=RGB(239, 171, 141) New Net Color=Default

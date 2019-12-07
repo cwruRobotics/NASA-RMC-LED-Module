@@ -1,0 +1,20 @@
+Added Component: Designator=H1(#8-32_SOCKET_HEAD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "MISC-00027"; VariantName = "[No Variations]"
+Added Component: Designator=H2(#8-32_SOCKET_HEAD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "MISC-00027"; VariantName = "[No Variations]"
+Added Component: Designator=H3(#8-32_SOCKET_HEAD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "MISC-00027"; VariantName = "[No Variations]"
+Added Component: Designator=H4(#8-32_SOCKET_HEAD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "MISC-00027"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=GND Pin=H2-0
+Added Pin To Net: NetName=GND Pin=H3-0
+Added Pin To Net: NetName=GND Pin=H4-0
+Added Member To Class: ClassName=LedModulePower Member=Component H1 mounting_hole_0
+Added Member To Class: ClassName=LedModulePower Member=Component H2 mounting_hole_0
+Added Member To Class: ClassName=LedModulePower Member=Component H3 mounting_hole_0
+Added Member To Class: ClassName=LedModulePower Member=Component H4 mounting_hole_0

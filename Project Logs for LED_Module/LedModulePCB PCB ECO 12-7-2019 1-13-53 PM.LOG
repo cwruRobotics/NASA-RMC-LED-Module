@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C11 Old Footprint=chip_2917_AVX_TAJD New Footprint=chip_1210
+Change Component Comment : Designator=C11 Old Comment=cap_single_p New Comment=cap_single_np
