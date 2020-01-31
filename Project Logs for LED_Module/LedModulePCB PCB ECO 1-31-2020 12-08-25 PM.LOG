@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=CAN_ID_1 Pin=SW1-1
+Removed Pin From Net: NetName=CAN_ID_2 Pin=SW1-2
+Removed Pin From Net: NetName=CAN_ID_4 Pin=SW1-3
+Removed Pin From Net: NetName=CAN_ID_8 Pin=SW1-4
+Removed Pin From Net: NetName=CAN_ID_16 Pin=SW2-1
+Removed Pin From Net: NetName=CAN_ID_32 Pin=SW2-2
+Removed Pin From Net: NetName=CAN_ID_64 Pin=SW2-3
+Removed Pin From Net: NetName=CAN_ID_128 Pin=SW2-4
+Change Component Footprint: Designator=D4 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R5 Old Footprint=chip_0603 New Footprint=chip_0603
+Change Component Footprint: Designator=R11 Old Footprint=chip_0603 New Footprint=chip_0603
+Added Pin To Net: NetName=CAN_ID_128 Pin=SW1-1
+Added Pin To Net: NetName=CAN_ID_64 Pin=SW1-2
+Added Pin To Net: NetName=CAN_ID_32 Pin=SW1-3
+Added Pin To Net: NetName=CAN_ID_16 Pin=SW1-4
+Added Pin To Net: NetName=CAN_ID_8 Pin=SW2-1
+Added Pin To Net: NetName=CAN_ID_4 Pin=SW2-2
+Added Pin To Net: NetName=CAN_ID_2 Pin=SW2-3
+Added Pin To Net: NetName=CAN_ID_1 Pin=SW2-4
